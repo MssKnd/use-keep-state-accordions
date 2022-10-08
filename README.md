@@ -1,2 +1,2 @@
-# use-keep-state-accordions.
+# use-keep-state-accordions
 Created with CodeSandbox
